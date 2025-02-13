@@ -17,7 +17,7 @@ export default function Hero() {
           }`}
         >
           <img
-            src="https://media.licdn.com/dms/image/v2/D4E35AQGuYCbJWYSQFA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1732752815457?e=1740052800&v=beta&t=wH-mtK36dqVUtmCpQRzms7TV5wN5NmaBWqxQjwtbCVY" 
+            src="https://media-hosting.imagekit.io//8cfe772a3dd24c2a/1732752815457%20(1).jpg?Expires=1834064849&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z~al9k8fLuq0R0DNwmsAU9S0UumYZo7SuYJ6aip46QGP4gbNfbnfYaAv-F68xJMLU1VkY9fi96Vlz95LAbeaKh6zAZDFxHY87uzFeKJWEmyMT-wZXqM182vwrNDKHn4zOtxoUygoRaW7ek94GveqF~1ScmisPWRImJ1x3hsfHO0hnoDqHrwzNqDew1oLHzZFPEqwPXLey2kLtsxqYVjL8zbUIFuNEww5RNz-Zlz~kzVrPbjAkgjSvJExFWrL15ub9LZPoPf1hE09mEJubcsI8YurE0ku2SnoKKDOUzfLiIniToIna9VcR2SZyRQ8P-E2dulfcnFWnoaXmZtwfNMYeg__" 
             alt="Abdul Munim Arain"
             className="w-3/4  max-w-xs mx-auto rounded-full mt-7 shadow-xl shadow-black border-2 border-white"
           />
@@ -49,7 +49,7 @@ export default function Hero() {
           }`}
         >
           <img
-            src="https://media.licdn.com/dms/image/v2/D4E35AQGuYCbJWYSQFA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1732752815457?e=1740052800&v=beta&t=wH-mtK36dqVUtmCpQRzms7TV5wN5NmaBWqxQjwtbCVY" 
+            src="https://media-hosting.imagekit.io//8cfe772a3dd24c2a/1732752815457%20(1).jpg?Expires=1834064849&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z~al9k8fLuq0R0DNwmsAU9S0UumYZo7SuYJ6aip46QGP4gbNfbnfYaAv-F68xJMLU1VkY9fi96Vlz95LAbeaKh6zAZDFxHY87uzFeKJWEmyMT-wZXqM182vwrNDKHn4zOtxoUygoRaW7ek94GveqF~1ScmisPWRImJ1x3hsfHO0hnoDqHrwzNqDew1oLHzZFPEqwPXLey2kLtsxqYVjL8zbUIFuNEww5RNz-Zlz~kzVrPbjAkgjSvJExFWrL15ub9LZPoPf1hE09mEJubcsI8YurE0ku2SnoKKDOUzfLiIniToIna9VcR2SZyRQ8P-E2dulfcnFWnoaXmZtwfNMYeg__" 
             alt="Abdul Munim Arain"
             className="w-full max-w-xs mx-auto rounded-full shadow-xl shadow-black border-2 border-white bg-black"
           />
